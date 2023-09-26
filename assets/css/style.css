@@ -268,7 +268,8 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: orange;
+  color: white;
+  background-color: black;
 }
 
 #hero p {
@@ -276,10 +277,11 @@ h6 {
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  background-color: black;
 }
 
 #hero p span {
-  color: green;
+  color: white;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
